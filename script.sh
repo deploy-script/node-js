@@ -63,7 +63,7 @@ install_nvm() {
     
     npm i npm@latest -g
     
-    npm install pm2 -g
+    npm i pm2 -g
 }
 
 #
