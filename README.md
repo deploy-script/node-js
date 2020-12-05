@@ -1,12 +1,12 @@
 # node-js
 
-This script deploys Node.js ready for app install/pull
+This script deploys Node.js ready for app install
 
 ## :clipboard: Features
 
 Here is whats installed:
 
- - Node.js (default version: --lts - changeable via .env)
+ - Node.js (version: `--lts` - changeable via `.env` file)
  - Updates npm
  - pm2
  
