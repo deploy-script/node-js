@@ -94,7 +94,7 @@ main() {
     #
     cleanup
 
-    echo >&2 "Install completed"
+    echo >&2 "Install completed, you may need to close and reopen console, or copy and run whats above."
 }
 
 # Check is root user
