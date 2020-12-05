@@ -6,6 +6,7 @@ This script deploys Node.js ready for app install
 
 Here is whats installed:
 
+ - Base system tools: build-essential, curl, lsb-release, git, procps, net-tools, nano, htop, iftop, mariadb-client
  - Node.js (version: `--lts` - changeable via `.env` file)
  - Updates npm
  - pm2
